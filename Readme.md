@@ -1,6 +1,6 @@
-## Sistem Inforasi Akademik Kampus
+## Sistem Inforasi Akademik Pergruan Tinggi
 
-#### Developed by Yanyan Sofiyan, M.Kom.
+#### Developed by Basir_dev
 
 ## Contact Me
 
